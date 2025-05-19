@@ -58,7 +58,7 @@ The **Rule-Based Game AI (tic tac toe)** system will follow these rules:
 ---
 
 ## Part 3: Rules/Logic for the Chosen System
-
+#View this section in raw to see the boards correctly
 Sample input and output of a full match: 
 
 Welcome to Tic-Tac-Toe! You are O, AI is X.
