@@ -5,12 +5,6 @@
 
 ## Part 1: Initial Project Ideas
 
-Decision rules for next move or narrative path.
-
-Prioritization or score system for rule evaluation.
-
-Rule conflict resolution strategy.
-
 ### 1. Project Idea 1: Movie Recommendation System
 - **Description:** Recommends movies or books based on user preferences using rules instead of learned data.
 - **Rule-Based Approach:**  
